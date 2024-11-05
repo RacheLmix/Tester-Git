@@ -1,0 +1,63 @@
+.khung{
+    width: 1000px;
+    margin: auto;
+}
+.healder{
+    width: 100%;
+    height: 40px;
+    display: inline-flex;
+}
+.logo{
+    width: 25%;
+}
+.healder-phai>ul>li{
+    list-style: none;
+    display: inline-flex;
+}
+.healder-phai>ul>li>a{
+    text-decoration: none;
+    font-size: 14px;
+    color: grey;
+    margin-left: 80px;
+    font-weight: bold;
+}
+.banner>img{
+    width: 100%;
+}
+.tieude{
+    color: red;
+}
+.baiviet{
+    font-size: 20px;
+   
+}
+.buttons>button{
+    width: 160px;
+    height: 40px;
+    border-radius: 8px;
+    background-color:  rgb(237, 114, 202);
+}
+.buttons{
+    padding: 15px;
+    margin: 0px;
+    display: inline-flex;
+    float: left;
+
+
+}
+.footer{
+    background: rgb(255, 136, 251);
+    width: 1000px;
+    height: 65px;
+    clear: both;
+}
+.footer>form{
+    padding: 0px;
+    float: right;
+
+    margin-left: 10px;
+}
+.footer>button{
+    float: right;
+    margin-left: 10px;
+}

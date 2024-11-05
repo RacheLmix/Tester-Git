@@ -1,0 +1,73 @@
+.khung{
+    width: 1000px;
+    margin: auto;
+}
+.headler{
+    width: 100%;
+    height: 40px;
+    display: inline-flex;
+}
+.logo{
+    width: 25%;
+}
+.headler-phai>ul>li{
+    list-style: none; 
+    display: inline-flex;
+}
+.headler-phai>ul>li>a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 94px;
+    color: grey;
+}
+.banner>img{
+    width: 100%;
+}
+.hinhanh{
+    float: right;
+}
+
+.hinhanh>img{
+    width: 500px;
+    height:  150px;
+    margin-top: -40px;
+    
+}
+.button>button{
+    width: 80px;
+    height: 20px;
+    border-radius: 5px;
+    border: solid grey 2px;
+    background-color: pink;
+}
+.headler-phai>ul>li>a:hover{
+   color: red;
+}
+.tieude{
+    color: red;
+}
+.footer{
+    width: 1000px;
+    height: 50px;
+    background-color: pink;
+    clear: both;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+   
+}
+
+.from{
+    display: flex;
+
+}
+.tect>h3{
+    margin: 0px;
+    padding: 15px;
+    font-size: 16px;
+    font-weight: bold;   
+}
+.btn>button{
+    background-color: grey;
+}
